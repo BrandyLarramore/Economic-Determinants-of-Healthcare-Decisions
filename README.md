@@ -19,7 +19,7 @@ This question seeks to understand if and how financial well-being influences hea
 The intended audience includes healthcare professionals, policy makers, financial advisors, and public health researchers.
 
 ## Research and Findings
-After compiling data from the CDC and Census, I first explored the data using Excel.
+The first step was compiling data from the CDC and Census, I first explored the data using Excel.
 Pivot tables were very helpful in identifying distributions of income and vaccinations. 
 I used find and replace to fix errors in symbol transfer with the symbol ">" (greater than), changing the displayed symbols to instead say "or older" after the provided age.
 Later, I sorted the data by State to manually add in state fips codes after needing to expand my research further.
@@ -37,14 +37,14 @@ It's important to note that correlation does not imply causation, and the observ
 
 After the analysis was complete I spent a significant amount of my free time theorizing as to what could cause this unexpected correlation. A few of my theories include:
 
-1) Access to Healthcare - I wonder if people in an higher income situation have better access to healthcare services. My husband is and engineer and his employeer very heavily advocates for priortizing health. They offer vaccinations in the office at various times during the year. On the other hand, I know many lower income areas struggle with transportation. Also, if they work during normal doctor hours, and vaccines aren't offered in their workplace, offices may be closed when they get off. Some vaccines also may not be covered by their insurance, or may have additional barries for approval through insurance.
+1) Access to Healthcare - I wonder if people in an higher income situation have better access to healthcare services? My husband is an engineer and his employeer very heavily advocates for priortizing health. They offer vaccinations in the office at various times during the year. On the other hand, I know many lower income areas struggle with transportation. Also, if they work during normal doctor hours and vaccines aren't offered in their workplace, offices may be closed when they get off. Some vaccines also may not be covered by their insurance, or may have additional barries for approval through insurance.
 
 2) Trust and cultural beliefs - Higher-income individuals may have greater trust in healthcare providers and public health authorities, leading to higher vaccination rates. In contrast, lower-income individuals, especially those from marginalized communities, may have historical mistrust of healthcare systems due to past discrimination or systemic inequalities. Cultural beliefs, social norms, and peer influence can shape vaccination attitudes and behaviors within communities. Higher-income communities may have different cultural norms regarding healthcare-seeking behavior and disease prevention compared to lower-income communities.
 
 
 
 ## Challenges and Further Research
-when using data from two different sources, it is common for the data to not have a lot of similarities. The Census data had 133 columns including columns that had already calculated relevant aggregations such as the average income. The CDC dataset only had 10 columns and looked at only 4 different types of vaccines. Because of this, it would be worthwile to look into finding data on additional vaccinations. Also, since we have all gotten the pleasure of experiencing our own pandemic, there was a shift in focus of vaccination data collection in 2020, focusing more on the COVID-19 vaccine, making data on a more broad range of vaccinations even more challenging to find.
+When using data from two different sources it is common for the data to not have a lot of similarities. The Census data had 133 columns including columns that had already calculated relevant aggregations such as the average income. The CDC dataset only had 10 columns and looked at only 4 different types of vaccines. Because of this, it would be worthwile to look into finding data on additional vaccinations. Also, since we have all gotten the pleasure of experiencing our own pandemic, there was a shift in focus of vaccination data collection in 2020, focusing more on the COVID-19 vaccine, making data on a more broad range of vaccinations even more challenging to find.
 
 
 ## Technologies and Data Sources
