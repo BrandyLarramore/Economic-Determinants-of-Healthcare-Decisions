@@ -35,11 +35,12 @@ States with higher incomes frequently have lower vaccinations rates. The opposit
 It's important to note that correlation does not two imply causation, and the observed relationship between income and vaccination rates is likely additionally influenced by a combination of other factors not explored in this project. Addressing disparities in vaccination rates requires a multifaceted approach that considers socioeconomic, cultural, and systemic factors to ensure equitable access to vaccines for all communities.
 
 
-After the analysis was complete I spent a significant amount of my free time theorizing as to what could cause this unexpected correlation. A few of my theories include:
+After the analysis was complete I spent a significant amount of my free time theorizing as to what could cause this unexpected correlation. 
+A few of my theories include:
 
 1) Access to additional healthcare options - Higher-income individuals may have access to alternative healthcare options, such as naturopathic or holistic medicine, which may lead them to prioritize alternative approaches to disease prevention over vaccination. Higher-income individuals may also perceive themselves to be at lower risk of vaccine-preventable diseases due to factors such as access to better healthcare, sanitation, and living conditions. As a result, they may underestimate the importance of vaccination for themselves and their communities.
 
-2) Types of insurance - Lower income families may have state provided medical insurance instead of private insurance which could potentially have less copays, or barriers to access to vaccinations.
+2) Types of insurance - Lower income families may have state provided medical insurance instead of private insurance which could potentially have less copays, or barriers of access to vaccinations.
 
 
 
