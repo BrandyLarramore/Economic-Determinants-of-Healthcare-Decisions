@@ -14,7 +14,7 @@ Prior to becoming a data analyst I worked helping people financially as a consul
 ## Data Question
 The primary question I sought to answer is this: Is there a correlation between income and vaccination status in America, and if so, what does it show?
 
-This question seeks to understand if and how financial well-being influences healthcare decisions, particularly vaccination uptake. Insights derived could inform policy decisions, healthcare education programs, and financial advising strategies, particularly in underserved communities. 
+This question seeks to understand if and how financial well-being influences healthcare decisions, particularly vaccinations received. Insights derived could inform policy decisions, healthcare education programs, and financial advising strategies, particularly in underserved communities. 
 
 The intended audience includes healthcare professionals, policy makers, financial advisors, and public health researchers.
 
@@ -32,19 +32,21 @@ I imported the data into Power BI to map the income and vaccination rates by sta
 States with higher incomes frequently have lower vaccinations rates. The opposite is also true with states having lower incomes frequently having higher vaccination rates. Only one state, Arkansas, had both lower income and lower vaccination rates. There were no states in the higher incomes that had higher vaccination rates.
 
 
-It's important to note that correlation does not imply causation, and the observed relationship between income and vaccination rates is likely influenced by a combination of these factors. Addressing disparities in vaccination rates requires a multifaceted approach that considers socioeconomic, cultural, and systemic factors to ensure equitable access to vaccines for all communities.
+It's important to note that correlation does not two imply causation, and the observed relationship between income and vaccination rates is likely additionally influenced by a combination of other factors not explored in this project. Addressing disparities in vaccination rates requires a multifaceted approach that considers socioeconomic, cultural, and systemic factors to ensure equitable access to vaccines for all communities.
 
 
 After the analysis was complete I spent a significant amount of my free time theorizing as to what could cause this unexpected correlation. A few of my theories include:
 
-1) Access to Healthcare - I wonder if people in an higher income situation have better access to healthcare services? My husband is an engineer and his employeer very heavily advocates for priortizing health. They offer vaccinations in the office at various times during the year. On the other hand, I know many lower income areas struggle with transportation. Also, if they work during normal doctor hours and vaccines aren't offered in their workplace, offices may be closed when they get off. Some vaccines also may not be covered by their insurance, or may have additional barries for approval through insurance.
+1) Access to additional healthcare options - Higher-income individuals may have access to alternative healthcare options, such as naturopathic or holistic medicine, which may lead them to prioritize alternative approaches to disease prevention over vaccination. Higher-income individuals may also perceive themselves to be at lower risk of vaccine-preventable diseases due to factors such as access to better healthcare, sanitation, and living conditions. As a result, they may underestimate the importance of vaccination for themselves and their communities.
 
-2) Trust and cultural beliefs - Higher-income individuals may have greater trust in healthcare providers and public health authorities, leading to higher vaccination rates. In contrast, lower-income individuals, especially those from marginalized communities, may have historical mistrust of healthcare systems due to past discrimination or systemic inequalities. Cultural beliefs, social norms, and peer influence can shape vaccination attitudes and behaviors within communities. Higher-income communities may have different cultural norms regarding healthcare-seeking behavior and disease prevention compared to lower-income communities.
+2) Types of insurance - Lower income families may have state provided medical insurance instead of private insurance which could potentially have less copays, or barriers to access to vaccinations.
 
 
 
 ## Challenges and Further Research
 When using data from two different sources it is common for the data to not have a lot of similarities. The Census data had 133 columns including columns that had already calculated relevant aggregations such as the average income. The CDC dataset only had 10 columns and looked at only 4 different types of vaccines. Because of this, it would be worthwile to look into finding data on additional vaccinations. Also, since we have all gotten the pleasure of experiencing our own pandemic, there was a shift in focus of vaccination data collection in 2020, focusing more on the COVID-19 vaccine, making data on a more broad range of vaccinations even more challenging to find.
+
+I also think it could be helpful to explore the type of insurance used. I wonder if there are additional correlations when looking at state provided insurance and private insurance?
 
 
 ## Technologies and Data Sources
