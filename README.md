@@ -47,7 +47,7 @@ A few of my theories include:
 ## Challenges and Further Research
 When using data from two different sources it is common for the data to not have a lot of similarities. The Census data had 133 columns including columns that had already calculated relevant aggregations such as the average income. The CDC dataset only had 10 columns and looked at only 4 different types of vaccines. Because of this, it would be worthwile to look into finding data on additional vaccinations. Also, since we have all gotten the pleasure of experiencing our own pandemic, there was a shift in focus of vaccination data collection in 2020, focusing more on the COVID-19 vaccine, making data on a more broad range of vaccinations even more challenging to find.
 
-I also think it could be helpful to explore the type of insurance used. I wonder if there are additional correlations when looking at state provided insurance and private insurance?
+I also think it could be helpful to explore the type of insurance used. There may be additional correlations when looking at state provided insurance and private insurance.
 
 
 ## Technologies and Data Sources
@@ -58,5 +58,5 @@ I also think it could be helpful to explore the type of insurance used. I wonder
 - Power BI
 
 ### Data Sources
-- United States Census Bureau 2019 Income: [Data Downloads](https://data.census.gov/table?q=income%20by%20county%20in%20the%20united%20states%202019)
+- United States Census Bureau 2019 Income: [Data](https://data.census.gov/table?q=income%20by%20county%20in%20the%20united%20states%202019)
 - CDC Vaccination Coverage among Adults: [Data](https://data.cdc.gov/Vaccinations/Vaccination-Coverage-among-Adults-18-Years-/aetd-68ew/about_data)
